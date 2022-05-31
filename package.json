@@ -1,0 +1,33 @@
+{
+  "name": "dfiaddress.org",
+  "version": "1.0.0",
+  "sha1sum": "d678ece60555ba63559aefb41d6bf20f81b2234d",
+  "sha256sum": "cf60cc79d8f3bd0b8a0a3807706e93b473e8f98b69ee44b4b749d2ed6c646502",
+  "description": "Open Source JavaScript Client-Side DeFiChain Wallet Generator",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-combine": "~0.8.3",
+    "grunt-lineending": "~1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-combine": "~0.8.3",
+    "grunt-lineending": "~1.0.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/koraycoding/dfiddress.org.git"
+  },
+  "keywords": [
+    "defichain address wallet generator"
+  ],
+  "author": "koraycoding",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/koraycoding/dfiaddress.org/issues"
+  }
+}
